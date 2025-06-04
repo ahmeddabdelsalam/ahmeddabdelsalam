@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ahmed AbdelSalam</h1>
+<h1 align="center">Hey Coders 👋</h1>
+
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hey Coders" width="60%" />
+</p>
+
+<h2 align="center">I'm Ahmed Abdelsalam</h2>
 <h3 align="center">A passionate Full Stack .NET Developer from Egypt</h3>
 
 <p align="center">
@@ -37,7 +43,7 @@
 ### 📫 Contact Me
 
 - 📧 Email: [ahmedmahmoud93213@gmail.com](mailto:ahmedmahmoud93213@gmail.com)
-- 💼 LinkedIn: [Ahmed AbdelSalam](https://www.linkedin.com/in/ahmeddmaahmoud)
+- 💼 LinkedIn: [Ahmed Abdelsalam](https://www.linkedin.com/in/ahmeddmaahmoud)
 
 ---
 
