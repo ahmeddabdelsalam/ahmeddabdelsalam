@@ -1,8 +1,9 @@
 <h1 align="center">Hey Coders 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hey Coders" width="60%" />
+  <img src="https://gist.githubusercontent.com/ahmeddabdelsalam/ahmed_greeting.gif" alt="I'm Ahmed Abdelsalam" width="60%" />
 </p>
+
 
 <h2 align="center">I'm Ahmed Abdelsalam</h2>
 <h3 align="center">Full Stack .NET Developer</h3>
