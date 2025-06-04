@@ -12,6 +12,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-blue?style=flat)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=flat&logo=.net&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -27,26 +28,25 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmeddabdelsalam&show_icons=true&theme=github_dark" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddabdelsalam&layout=compact&theme=github_dark" width="45%"/>
 </p>
 
 ---
 
 ### 📫 Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💬 Telegram: [@your_username](https://t.me/your_username)
-- 💼 LinkedIn: [Ahmed AbdelSalam](https://linkedin.com/in/YOUR_PROFILE)
+- 📧 Email: [ahmedmahmoud93213@gmail.com](mailto:ahmedmahmoud93213@gmail.com)
+- 💼 LinkedIn: [Ahmed AbdelSalam](https://www.linkedin.com/in/ahmeddmaahmoud)
 
 ---
 
-### 🧠 Fun facts & Interests
+### 🧠 About Me
 
-- 💻 Currently working on ASP.NET Core projects.
-- 📚 Always learning and exploring backend architecture and frontend frameworks.
-- 🐧 I love Linux tools and dev environments.
-- 🎮 A fan of building side projects and learning by doing.
+- 💻 I’m currently working with **.NET Core, ASP.NET MVC, and SQL Server**.
+- 🧠 I’m always learning new backend tools and exploring frontend frameworks.
+- 🛠️ I enjoy building clean, scalable, and efficient systems.
+- 💬 Ask me about anything related to C#, .NET, or system architecture.
 
 ---
 
